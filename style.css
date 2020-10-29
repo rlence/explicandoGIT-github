@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container-fluid{
+    padding: 0px;
+}
+
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.col-12{
+    padding: 0px;
+}
+
+.navbar{
+    background-color: rgb(202, 202, 202); 
+    justify-content: space-around;
+}
+
+.nav{
+    top: 10px
+}
+
+.center{
+    justify-content: center;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.card{
+    width: 100%;
+    padding: 0px;
+    margin-bottom: 10%;
+}
+
+.card-body{
+    padding: 0px;
+}
+
+.header{
+    margin: 0px;
+    justify-content: space-between;
+    padding: 1% 2%;
+}
+
+.footer{
+    padding: 1% 2%;
+}
+
+.like-comments{
+    padding-left: 5%;
+}
+
+.coments{
+    padding-left: 10%;
+}
